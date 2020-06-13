@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8735" started-at="2020-05-31T06:43:55Z" finished-at="2020-05-31T06:44:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8735" started-at="2020-05-31T06:43:55Z" finished-at="2020-05-31T06:44:04Z">
+      <class name="org.qa.winApp_automation.Win_App_Automation">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.qa.winApp_automation.Win_App_Automation@14acaea5]" name="setUp" is-config="true" duration-ms="2638" started-at="2020-05-31T12:13:56Z" finished-at="2020-05-31T12:13:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="openHelpAboutNotepad()[pri:1, instance:org.qa.winApp_automation.Win_App_Automation@14acaea5]" name="openHelpAboutNotepad" duration-ms="2219" started-at="2020-05-31T12:13:58Z" finished-at="2020-05-31T12:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHelpAboutNotepad -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.qa.winApp_automation.Win_App_Automation@14acaea5]" name="tearDown" is-config="true" duration-ms="109" started-at="2020-05-31T12:14:00Z" finished-at="2020-05-31T12:14:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.qa.winApp_automation.Win_App_Automation@14acaea5]" name="setUp" is-config="true" duration-ms="744" started-at="2020-05-31T12:14:01Z" finished-at="2020-05-31T12:14:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="sendTextTest()[pri:2, instance:org.qa.winApp_automation.Win_App_Automation@14acaea5]" name="sendTextTest" duration-ms="2791" started-at="2020-05-31T12:14:01Z" finished-at="2020-05-31T12:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendTextTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.qa.winApp_automation.Win_App_Automation@14acaea5]" name="tearDown" is-config="true" duration-ms="141" started-at="2020-05-31T12:14:04Z" finished-at="2020-05-31T12:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.qa.winApp_automation.Win_App_Automation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
